@@ -4,3 +4,7 @@ __pycache__/
 out
 website/
 docs-minimind/
+
+.vscode
+dataset
+minimind-3
